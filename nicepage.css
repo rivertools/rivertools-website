@@ -34586,6 +34586,10 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 98px;
   }
 
+  .u-header .u-image-1 {
+    width: auto;
+  }
+
   .u-header .u-logo-image-1 {
     max-width: 147px;
     max-height: 147px;
